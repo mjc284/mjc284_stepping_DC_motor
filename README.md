@@ -14,7 +14,7 @@ The output of the rotor was geared down to drive a numbered disc which represent
 
 ### Project Workflow:
 - All the hardware and circuit were modelled using Fusion 360.
-- Some of the parts were milled from 6mm MDF using a desktop-CNC. 
+- Some of the parts were machined from 6mm MDF using a desktop-CNC. 
 - 3D-printed some of the parts with postprocessing from Ultimaker-Cura.
 - PCB was manufactured from the Fusion 360 gerber file by Chinese PCB services.
 - Arduino-pro mini was programmed and used to drive the circuit.
